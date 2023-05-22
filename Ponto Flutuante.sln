@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponto Flutuante", "Ponto Flutuante\Ponto Flutuante.csproj", "{96E010E4-3925-40E9-AB09-BE5E580B1491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E010E4-3925-40E9-AB09-BE5E580B1491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E010E4-3925-40E9-AB09-BE5E580B1491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E010E4-3925-40E9-AB09-BE5E580B1491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E010E4-3925-40E9-AB09-BE5E580B1491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81FB9600-FC9A-463C-B726-61724E254A40}
+	EndGlobalSection
+EndGlobal
